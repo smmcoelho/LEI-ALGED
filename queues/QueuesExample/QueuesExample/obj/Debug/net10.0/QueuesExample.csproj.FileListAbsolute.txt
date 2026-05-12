@@ -1,0 +1,14 @@
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\bin\Debug\net10.0\QueuesExample.exe
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\bin\Debug\net10.0\QueuesExample.deps.json
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\bin\Debug\net10.0\QueuesExample.runtimeconfig.json
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\bin\Debug\net10.0\QueuesExample.dll
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\bin\Debug\net10.0\QueuesExample.pdb
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\QueuesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\QueuesExample.AssemblyInfoInputs.cache
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\QueuesExample.AssemblyInfo.cs
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\QueuesExample.csproj.CoreCompileInputs.cache
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\QueuesExample.dll
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\refint\QueuesExample.dll
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\QueuesExample.pdb
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\QueuesExample.genruntimeconfig.cache
+C:\Users\INT100239\RiderProjects\LEI-ALGED\queues\QueuesExample\QueuesExample\obj\Debug\net10.0\ref\QueuesExample.dll

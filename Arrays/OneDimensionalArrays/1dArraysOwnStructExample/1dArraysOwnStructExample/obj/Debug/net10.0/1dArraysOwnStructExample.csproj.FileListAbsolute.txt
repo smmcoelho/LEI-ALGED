@@ -1,0 +1,14 @@
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\bin\Debug\net10.0\1dArraysOwnStructExample.exe
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\bin\Debug\net10.0\1dArraysOwnStructExample.deps.json
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\bin\Debug\net10.0\1dArraysOwnStructExample.runtimeconfig.json
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\bin\Debug\net10.0\1dArraysOwnStructExample.dll
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\bin\Debug\net10.0\1dArraysOwnStructExample.pdb
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\1dArraysOwnStructExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\1dArraysOwnStructExample.AssemblyInfoInputs.cache
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\1dArraysOwnStructExample.AssemblyInfo.cs
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\1dArraysOwnStructExample.csproj.CoreCompileInputs.cache
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\1dArraysOwnStructExample.dll
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\refint\1dArraysOwnStructExample.dll
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\1dArraysOwnStructExample.pdb
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\1dArraysOwnStructExample.genruntimeconfig.cache
+C:\Users\INT100239\RiderProjects\LEI-ALGED\arrays\OneDimensionalArrays\1dArraysOwnStructExample\1dArraysOwnStructExample\obj\Debug\net10.0\ref\1dArraysOwnStructExample.dll
