@@ -11,6 +11,7 @@ The goal is to provide easy-to-understand code samples that illustrate:
 
 For more detailed and official documentation, see:
 - [C# collections overview (Microsoft Learn)](https://learn.microsoft.com/en-us/dotnet/standard/collections/)
+- [JetBrains .NET Collections Guide](https://www.jetbrains.com/guide/dotnet/tutorials/dotnet-collections/)
 
 ## Recommended IDEs
 
