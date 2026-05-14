@@ -1,60 +1,53 @@
-
-public class Person
-{
-    public Person(string name, string surname)
-    {
-        Name = name;
-        Surname = surname;
-    }
-
-    public string Name { get; }
-    public string Surname { get; }
-
-    public override string ToString() => $"({Name}, {Surname})";
-}
-
 public class Program
 {
-    static void Print(List<Person> persons)
+    static void Print(List<int> numbers)
     {
         // print list
-        foreach (var person in persons)
+        foreach (var number in numbers)
         {
-            Console.WriteLine(person);
+            Console.WriteLine(number);
         }
 
         Console.WriteLine("-----------------");
     }
+
+    static void PrintAverage(List<int> numbers)
+    {
+        if (numbers is null || numbers.Count == 0)
+        {
+            Console.WriteLine("List cannot be null or empty");
+            return;
+        }
+
+        Console.WriteLine($"Average: {numbers.Average()}");
+        Console.WriteLine("-----------------");
+    }
+
     public static void Main()
     {
         // instantiate and initialize list
-        var persons = new List<Person>
-        {
-            new("Jimmy", "Page"),
-            new("Eddie", "Van Halen")
-        };
+        var numbers = new List<int> { 1, 2, 3, 4, 5};
 
         // add new element
-        persons.Add(new("Tony", "Iommi"));
+        numbers.Add(6);
 
-        Print(persons);
+        Print(numbers);
+        PrintAverage(numbers);
 
-        // instantiate new Person
-        var brian = new Person("Brian", "May");
-
+        int four = 4;
         // check if person exists in the list
-        if (persons.Contains(brian))
+        if (numbers.Contains(four))
         {
             // remove person from list
-            persons.Remove(brian);
+            numbers.Remove(four);
         }
         else
         {
             // person not found
-            Console.WriteLine($"{brian} not found in list");
+            Console.WriteLine($"{four} not found in list");
         }
 
-        Print(persons);
+        Print(numbers);
+        PrintAverage(numbers);
     }
 }
-
