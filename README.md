@@ -13,9 +13,11 @@ For more detailed and official documentation, see:
 - [C# collections overview (Microsoft Learn)](https://learn.microsoft.com/en-us/dotnet/standard/collections/)
 - [JetBrains .NET Collections Guide](https://www.jetbrains.com/guide/dotnet/tutorials/dotnet-collections/)
 
+
 ## Recommended IDEs
 
 The examples in this repository can be explored using any C#‑compatible editor or IDE.  
 The following tools are commonly used and well supported:
 
-- [Visual Studio Code](https://code.visualstudio.com/) – Lightweight, cross‑platform editor with excellent C# and .NET extensions ins Rider](https://www.jetbrains.com/rider/) – Full‑featured, cross‑platform IDE for .NET development [2](https://www.jetbrains.com/rider/)
+- [Visual Studio Code](https://code.visualstudio.com/) – Lightweight, cross‑platform editor with excellent C# and .NET extensions
+- [JetBrains Rider](https://www.jetbrains.com/rider/) – Full‑featured, cross‑platform IDE for .NET development
