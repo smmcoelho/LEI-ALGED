@@ -35,15 +35,14 @@ public class Program
         PrintAverage(numbers);
 
         int four = 4;
-        // check if person exists in the list
+        // check if number exists in the list
         if (numbers.Contains(four))
         {
-            // remove person from list
+            // remove number from list
             numbers.Remove(four);
         }
         else
         {
-            // person not found
             Console.WriteLine($"{four} not found in list");
         }
 
