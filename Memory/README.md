@@ -13,5 +13,4 @@ int x = 42;
 string name = "Sebastian";
 int[] numbers = [1, 2, 3, 4, 5];
 ```
-
 ![C# Stack and Heap Memory Layout](SimpleMemoryMap.png)
