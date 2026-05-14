@@ -17,7 +17,6 @@ public class Program
 {
     static void PrintQueueDetails<T>(Queue<T> queue)
     {
-        Console.WriteLine("Queue Details:");
         Console.WriteLine($"Count: {queue.Count} an Capacity: {queue.Capacity}");
     }
 
