@@ -1,6 +1,6 @@
 public class Program
 {
-    static void PrintQueueDetails<T>(Stack<T> queue)
+    static void PrintStackDetails<T>(Stack<T> queue)
     {
         Console.WriteLine("Queue Details:");
         Console.WriteLine($"Count: {queue.Count} an Capacity: {queue.Capacity}");
@@ -12,13 +12,13 @@ public class Program
         var element1 = "Write";
 
         actionsStack.Push(element1);
-        PrintQueueDetails(actionsStack);
+        PrintStackDetails(actionsStack);
 
         actionsStack.Push("Draw");
-        PrintQueueDetails(actionsStack);
+        PrintStackDetails(actionsStack);
 
         Console.WriteLine($"Dequeue: {actionsStack.Pop()}");
-        PrintQueueDetails(actionsStack);
+        PrintStackDetails(actionsStack);
     }
 }
 
