@@ -14,9 +14,16 @@ string name = "Sebastian";
 int[] numbers = [1, 2, 3, 4, 5];
 ```
 
+## Summary Table
+| Variable | Type Category | Stack Contents | Heap Contents |
+| :--- | :--- | :--- | :--- |
+| **`x`** | Value Type | The actual value (**`42`**) | *None* |
+| **`name`** | Reference Type | **Memory Address** (Pointer) | The string object `"Sebastian"` |
+| **`numbers`** | Reference Type | **Memory Address** (Pointer) | The array object `[1, 2, 3, 4, 5]` |
+
+## Diagram
 The diagram below illustrates how these three lines of code look "under the hood" during execution:
 ![C# Stack and Heap Memory Layout](SimpleMemoryMap.png)
-
 
 ## Key Concepts
 ### The Stack: The "Active" Workspace
@@ -31,10 +38,3 @@ The Heap is a large, flexible pool of memory used for Reference Types.
 - Dynamic: Objects can live here even after the method that created them has ended, as long as something is still pointing to them.
 - Garbage Collection (GC): Unlike the Stack, memory here isn't cleared instantly. The Garbage Collector periodically scans the heap to delete objects that are no longer being used.
 
-## Summary Table
-
-| Variable | Type Category | Stack Contents | Heap Contents |
-| :--- | :--- | :--- | :--- |
-| **`x`** | Value Type | The actual value (**`42`**) | *None* |
-| **`name`** | Reference Type | **Memory Address** (Pointer) | The string object `"Sebastian"` |
-| **`numbers`** | Reference Type | **Memory Address** (Pointer) | The array object `[1, 2, 3, 4, 5]` |
